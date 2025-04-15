@@ -1,14 +1,14 @@
 <h2>👋 Hi, I’m @sejin-kr</h2>
-
-
+<br/>
+<br/>
 <!---
 sejin-kr/sejin-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>💪🏻 Skills</h2>
+### 💪🏻 Skills
 
-<h3>Languages</h2>
+#### Languages
 
 <div>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<h3>Tools</h2>
+#### Tools
 <div>
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white" />
