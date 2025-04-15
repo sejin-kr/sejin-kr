@@ -6,7 +6,7 @@ sejin-kr/sejin-kr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2💪🏻 Skills</h2>
+<h2>💪🏻 Skills</h2>
 
 <h3>Languages</h2>
 
