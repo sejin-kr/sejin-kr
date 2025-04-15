@@ -1,6 +1,5 @@
-<h2>👋 Hi, I’m @sejin-kr</h2>
-<br/>
-<br/>
+# 👋 Hi, I’m @sejin-kr
+
 <!---
 sejin-kr/sejin-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -26,3 +25,7 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
 	<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white" />
 </div>
+
+
+#### Contact
+✉️ dev.sejinhan@gmail.com
